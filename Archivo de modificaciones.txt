@@ -1,3 +1,11 @@
 "Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
  Francisco Ricardo Rodríguez Ramírez"
+
+Paulina Milenka Glez. Manrique.
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/FranciscoRodRam/tarea_colaborativo-
+https://github.com/paulinamilenka/tarea_colaborativo-
+
+donde Francisco es persona 1 y Milenka es persona 2
